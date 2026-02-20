@@ -1,4 +1,4 @@
-Python Data Analysis Project
+Python Sales Data Analysis | EPICODE Data Analyst Project
 
 This project was developed as part of the EPICODE Data Analyst Professional Program.
 
@@ -19,6 +19,12 @@ Data Cleaning
 Data Analysis
 Data Exploration
 Data Visualization
+
+Business Insights
+
+Identified trends and patterns in the dataset  
+Performed data cleaning and preprocessing  
+Generated insights to support business decisions
 
 File included
 
